@@ -1,14 +1,15 @@
 package Java08;
 
+//Class07
 public class CTest {
 	void test(int a) {
 		System.out.print(a);
 		if (a % 2 == 1)
-			System.out.println(",¦¹¼Æ¬°©_¼Æ");
+			System.out.println(",æ­¤æ•¸ç‚ºå¥‡æ•¸");
 		else if (a == 0)
-			System.out.println(",¦¹¼Æ¬° 0");
+			System.out.println(",æ­¤æ•¸ç‚º 0");
 		else
-			System.out.println(",¦¹¼Æ¬°°¸¼Æ");
+			System.out.println(",æ­¤æ•¸ç‚ºå¶æ•¸");
 
 	}
 }
